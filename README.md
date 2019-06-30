@@ -50,4 +50,4 @@ Navigate to [http://localhost:3000](http://localhost:3000). You should be able t
 
 ## License
 
-json-rest-server-template is licemsed under the [MIT License](LICENCE.md).
+json-rest-server-template is licemsed under the [MIT License](LICENSE.md).
