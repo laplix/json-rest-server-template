@@ -1,0 +1,31 @@
+{
+  "name": "json-rest-server-template",
+  "version": "0.1.0",
+  "description": "A simple JSON REST server template to easily setup github.com/typicode/json-server as its back-end.",
+  "author": "Louis Lapointe",
+  "license": "MIT",
+  "installConfig": {
+    "pnp": true
+  },
+  "scripts": {
+    "dev": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laplix/json-rest-server-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laplix/json-rest-serve-templater/issues"
+  },
+  "homepage": "https://github.com/laplix/json-rest-server-template",
+  "keywords": [
+    "JSON",
+    "REST",
+    "server",
+    "json-server",
+    "development"
+  ],
+  "devDependencies": {
+    "json-server": "^0.15.0"
+  }
+}
